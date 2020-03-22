@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://voqueitiso.succ.cc/sitemap.xml
